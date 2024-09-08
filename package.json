@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "nuxt generate",
     "preview": "vite preview"
   },
   "devDependencies": {
